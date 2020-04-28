@@ -12,7 +12,7 @@ tagline:          'A Jekyll theme'
 description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 url:              https://github.com/doyeonkim7092/doyeon7092.github.io
 baseurl:          ""
-
+remote_theme :    hyde/hyde
 author:
   name:           'Mark Otto'
   url:            https://twitter.com/mdo
